@@ -3,7 +3,7 @@
 
 Este es un proyecto Full Stack desarrollado como práctica técnica de arquitectura cliente-servidor. Consiste en una API RESTful construida con **.NET 8** conectada a una base de datos **PostgreSQL**, consumida por una interfaz moderna en **React** estilizada con **Tailwind CSS**.
 
-![Captura de pantalla del proyecto](https://imgur.com/piaOxeg) 
+![Captura de pantalla del proyecto](https://i.imgur.com/piaOxeg.png) 
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -32,7 +32,7 @@ Sigue estos pasos para levantar el entorno de desarrollo en tu máquina.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/gestion-usuarios-app.git](https://github.com/tu-usuario/gestion-usuarios-app.git)
+git clone [https://github.com/nahuelcerrano/Gestion_Usuarios_API.git](https://github.com/nahuelcerrano/Gestion_Usuarios_API.git)
 cd gestion-usuarios-app
 
 ```
