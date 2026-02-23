@@ -1,5 +1,5 @@
 
-# 🚀 Sistema de Gestión de Usuarios (Full Stack)
+# 🚀 Sistema de Gestión de Usuarios
 
 Este es un proyecto Full Stack desarrollado como práctica técnica de arquitectura cliente-servidor. Consiste en una API RESTful construida con **.NET 8** conectada a una base de datos **PostgreSQL**, consumida por una interfaz moderna en **React** estilizada con **Tailwind CSS**.
 
@@ -24,7 +24,7 @@ Este es un proyecto Full Stack desarrollado como práctica técnica de arquitect
 Para ejecutar este proyecto localmente, necesitas tener instalado:
 * [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 * [PostgreSQL](https://www.postgresql.org/download/) corriendo localmente.
-* [Bun](https://bun.sh/) (o Node.js/npm) para correr el frontend.
+* [Bun](https://bun.sh/) para correr el frontend.
 
 ## 🚀 Instalación y Ejecución
 
@@ -32,7 +32,7 @@ Sigue estos pasos para levantar el entorno de desarrollo en tu máquina.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/nahuelcerrano/Gestion_Usuarios_API.git](https://github.com/nahuelcerrano/Gestion_Usuarios_API.git)
+git clone https://github.com/nahuelcerrano/Gestion_Usuarios_API.git
 cd gestion-usuarios-app
 
 ```
@@ -61,7 +61,7 @@ Abre una **nueva terminal** y ejecuta:
 # Entrar a la carpeta del frontend
 cd Frontend
 
-# Instalar las dependencias (súper rápido con Bun)
+# Instalar las dependencias
 bun install
 
 # Levantar el servidor de desarrollo
@@ -69,7 +69,7 @@ bun run dev
 
 ```
 
-*El frontend estará disponible en `http://localhost:5173`. ¡Abre esa URL en tu navegador y listo!*
+*El frontend estará disponible en `http://localhost:5173`.*
 
 ## 🔌 Endpoints de la API
 
